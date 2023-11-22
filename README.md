@@ -1,1 +1,1 @@
-# LuminaSSG
+# Lumina
